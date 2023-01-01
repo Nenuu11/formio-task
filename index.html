@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <meta name="viewport" charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.form.io/formiojs/formio.full.min.css">
+    <script src="https://cdn.form.io/formiojs/formio.full.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div id="formio"></div>
+    <script type="text/javascript">
+      window.onload = function() {
+        Formio.createForm(document.getElementById('formio'), 'https://tadeunxmusutpue.form.io/workapplication')
+        .then(function(form){
+          form.on('submit', function(){
+            
+            var data = form.data;
+            var json = JSON.stringify(data);
+            $.ajax({
+              method: "POST",
+              url:"https://localhost:44389/Home/save",
+              contentType: "application/json; charset=utf-8",
+              dataType: "json",
+              data: json,
+            
+              success: function(response){
+               alert('data added successfuly');
+              }
+
+            })
+          });
+        });
+      };
+    </script>
+  </body>
+</html>
