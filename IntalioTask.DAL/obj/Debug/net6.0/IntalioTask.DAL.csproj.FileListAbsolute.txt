@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\bin\Debug\net6.0\IntalioTask.DAL.deps.json
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\bin\Debug\net6.0\IntalioTask.DAL.dll
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\bin\Debug\net6.0\IntalioTask.DAL.pdb
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\bin\Debug\net6.0\IntalioTask.DBL.dll
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\bin\Debug\net6.0\IntalioTask.Repository.dll
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\bin\Debug\net6.0\IntalioTask.DBL.pdb
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\bin\Debug\net6.0\IntalioTask.Repository.pdb
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\obj\Debug\net6.0\IntalioTask.DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\obj\Debug\net6.0\IntalioTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\obj\Debug\net6.0\IntalioTask.DAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\obj\Debug\net6.0\IntalioTask.DAL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\obj\Debug\net6.0\IntalioTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\obj\Debug\net6.0\IntalioTask.DAL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\obj\Debug\net6.0\IntalioTask.DAL.dll
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\obj\Debug\net6.0\refint\IntalioTask.DAL.dll
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\obj\Debug\net6.0\IntalioTask.DAL.pdb
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.DAL\obj\Debug\net6.0\ref\IntalioTask.DAL.dll

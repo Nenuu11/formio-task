@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y4PVfbPpaT2nFO6XLAT1DqQYkM1LxiOGlfNoLZ/lkgc=",
+  "Source": "IntalioTask.App",
+  "BasePath": "_content/IntalioTask.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

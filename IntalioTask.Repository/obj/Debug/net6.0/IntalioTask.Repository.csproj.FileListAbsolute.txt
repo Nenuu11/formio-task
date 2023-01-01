@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.Repository\bin\Debug\net6.0\IntalioTask.Repository.deps.json
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.Repository\bin\Debug\net6.0\IntalioTask.Repository.dll
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.Repository\bin\Debug\net6.0\IntalioTask.Repository.pdb
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.Repository\obj\Debug\net6.0\IntalioTask.Repository.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.Repository\obj\Debug\net6.0\IntalioTask.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.Repository\obj\Debug\net6.0\IntalioTask.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.Repository\obj\Debug\net6.0\IntalioTask.Repository.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.Repository\obj\Debug\net6.0\IntalioTask.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.Repository\obj\Debug\net6.0\IntalioTask.Repository.dll
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.Repository\obj\Debug\net6.0\refint\IntalioTask.Repository.dll
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.Repository\obj\Debug\net6.0\IntalioTask.Repository.pdb
+C:\Users\Administrator\Desktop\IntalioTask\IntalioTask.Repository\obj\Debug\net6.0\ref\IntalioTask.Repository.dll

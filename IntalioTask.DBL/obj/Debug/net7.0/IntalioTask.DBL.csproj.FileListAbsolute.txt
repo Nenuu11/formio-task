@@ -1,0 +1,14 @@
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\bin\Debug\net7.0\IntalioTask.DBL.deps.json
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\bin\Debug\net7.0\IntalioTask.DBL.runtimeconfig.json
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\bin\Debug\net7.0\IntalioTask.DBL.dll
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\bin\Debug\net7.0\IntalioTask.DBL.pdb
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\obj\Debug\net7.0\IntalioTask.DBL.csproj.AssemblyReference.cache
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\obj\Debug\net7.0\IntalioTask.DBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\obj\Debug\net7.0\IntalioTask.DBL.AssemblyInfoInputs.cache
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\obj\Debug\net7.0\IntalioTask.DBL.AssemblyInfo.cs
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\obj\Debug\net7.0\IntalioTask.DBL.csproj.CoreCompileInputs.cache
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\obj\Debug\net7.0\IntalioTask.DBL.dll
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\obj\Debug\net7.0\refint\IntalioTask.DBL.dll
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\obj\Debug\net7.0\IntalioTask.DBL.pdb
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\obj\Debug\net7.0\IntalioTask.DBL.genruntimeconfig.cache
+C:\Users\nehal\OneDrive\Desktop\IntalioTask\IntalioTask.DBL\obj\Debug\net7.0\ref\IntalioTask.DBL.dll
